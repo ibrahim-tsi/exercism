@@ -1,4 +1,4 @@
-#if !defined(ROBOT_SIMULATOR_HPP)
+#ifndef ROBOT_SIMULATOR_HPP
 #define ROBOT_SIMULATOR_HPP
 
 #include <utility>

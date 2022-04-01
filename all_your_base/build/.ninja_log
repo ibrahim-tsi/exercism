@@ -1,0 +1,7 @@
+# ninja log v5
+1	65	6705116649988465	CMakeFiles/all_your_base.dir/src/all_your_base.cpp.obj	96f67d23ae20b592
+66	120	6705116650528949	liball_your_base.a	4bc273359a5bffe7
+3	634	6705133484114525	CMakeFiles/myexe.dir/src/main.cpp.obj	c94a4c4770f02a2
+635	763	6705133485375675	myexe.exe	46668600e6b8ca42
+0	522	6705143741090040	CMakeFiles/all_your_base.dir/src/all_your_base.cpp.obj	96f67d23ae20b592
+523	589	6705143741760653	liball_your_base.a	4bc273359a5bffe7

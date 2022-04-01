@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/msys64/home/ic2000/exercism/all_your_base/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/msys64/home/ic2000/exercism/all_your_base/src/inc -g -std=gnu++20 -o CMakeFiles\\all_your_base.dir\\src\\all_your_base.cpp.obj -c C:\\msys64\\home\\ic2000\\exercism\\all_your_base\\src\\all_your_base.cpp",
+  "file": "C:\\msys64\\home\\ic2000\\exercism\\all_your_base\\src\\all_your_base.cpp"
+}
+]

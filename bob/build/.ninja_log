@@ -1,3 +1,5 @@
 # ninja log v5
 548	730	6705096302293121	libbob.a	8da386e12e6cfc4b
 0	545	6705096300433993	CMakeFiles/bob.dir/src/bob.cpp.obj	f8cf4a656b242dab
+3	548	6705113566380463	CMakeFiles/bob.dir/src/bob.cpp.obj	f8cf4a656b242dab
+549	616	6705113567041068	libbob.a	8da386e12e6cfc4b
