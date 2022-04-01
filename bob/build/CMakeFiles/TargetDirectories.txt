@@ -1,0 +1,5 @@
+C:/msys64/home/ic2000/exercism/bob/build/CMakeFiles/bob.dir
+C:/msys64/home/ic2000/exercism/bob/build/CMakeFiles/package.dir
+C:/msys64/home/ic2000/exercism/bob/build/CMakeFiles/package_source.dir
+C:/msys64/home/ic2000/exercism/bob/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/ic2000/exercism/bob/build/CMakeFiles/rebuild_cache.dir
