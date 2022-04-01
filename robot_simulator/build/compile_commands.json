@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/msys64/home/ic2000/exercism/robot_simulator/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/msys64/home/ic2000/exercism/robot_simulator/src/inc -g -o CMakeFiles\\robot_simulator.dir\\src\\robot_simulator.cpp.obj -c C:\\msys64\\home\\ic2000\\exercism\\robot_simulator\\src\\robot_simulator.cpp",
-  "file": "C:\\msys64\\home\\ic2000\\exercism\\robot_simulator\\src\\robot_simulator.cpp"
-}
-]

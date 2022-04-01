@@ -1,3 +1,0 @@
-C:/msys64/home/ic2000/exercism/all_your_base/build/CMakeFiles/all_your_base.dir
-C:/msys64/home/ic2000/exercism/all_your_base/build/CMakeFiles/edit_cache.dir
-C:/msys64/home/ic2000/exercism/all_your_base/build/CMakeFiles/rebuild_cache.dir

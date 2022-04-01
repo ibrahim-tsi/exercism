@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/msys64/home/ic2000/exercism/bob/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/msys64/home/ic2000/exercism/bob/src/inc -g -std=gnu++20 -o CMakeFiles\\bob.dir\\src\\bob.cpp.obj -c C:\\msys64\\home\\ic2000\\exercism\\bob\\src\\bob.cpp",
-  "file": "C:\\msys64\\home\\ic2000\\exercism\\bob\\src\\bob.cpp"
-}
-]
